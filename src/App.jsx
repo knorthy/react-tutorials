@@ -14,7 +14,7 @@ export default function App() {
   return (
     <>
       <nav id="desktop-nav">
-        <div className="logo">JENNIFER</div>
+        <div className="logo">JENNIFER🎀</div>
         <div>
           <ul className="nav-links">
             <li><a href="#about">About</a></li>
@@ -80,7 +80,7 @@ export default function App() {
             <img
               src={githubIcon}
               alt="My Github profile"
-              className="icon"
+              className="icongit"
               onClick={() => window.location.href = 'https://github.com/'}
             />
           </div>

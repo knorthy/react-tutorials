@@ -238,6 +238,7 @@ section {
 .title {
   font-size: 3rem;
   text-align: center;
+  font-style: italic;
 }
 
 #socials-container {
@@ -250,7 +251,12 @@ section {
 
 .icon {
   cursor: pointer;
-  height: 2rem;
+  height: 2.5rem;
+}
+
+.icongit{
+  cursor: pointer;
+  height: 2.5rem;
 }
 
 .btn-container {
